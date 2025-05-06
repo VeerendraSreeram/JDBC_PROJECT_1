@@ -8,7 +8,7 @@ public class Program_01 {
 		System.out.print("Enter the n value: ");
 		int n = sc.nextInt();
 		System.out.print("Square"+n*n);
-		sc.close();	
+		sc.close();
 	}
 
 }
